@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **andres@oventi.org**
 
-- 😄 Pronouns **he / him**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/oventi/](https://www.linkedin.com/in/oventi/)
 
 - ⚡ Fun fact **I play guitar**
