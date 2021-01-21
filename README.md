@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **andres@oventi.org**, [@andresoventi](https://twitter.com/andresoventi)
 
-- 📄 Know [about me](https://www.linkedin.com/in/oventi/) or [my work](https://www.linkedin.com/in/oventi/)
+- 📄 Know [about me](https://oventi.org/) or [my work](https://www.linkedin.com/in/oventi/)
 
 - ⚡ Fun fact **I play guitar** and percussion, speak Spanish, and like to scuba dive and paddleboard
 
