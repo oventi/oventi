@@ -1,21 +1,22 @@
-<h1 align="center">Kia ora 👋, I'm Andrés Proaño Valencia</h1>
-<h3 align="center">Applying my IT skills to make a positive impact in the world. Tauiwi, he/him.</h3>
+# Kia ora 👋, I'm Andrés Proaño Valencia
+## Applying my skills to make a positive impact in the world. 
+### Pōneke/Wellington, Aotearoa NZ. Tauiwi, he/him.
 
-<p align="left"> <a href="https://twitter.com/andresoventi" target="blank"><img src="https://img.shields.io/twitter/follow/andresoventi?logo=twitter&style=for-the-badge" alt="andresoventi" /></a> </p>
+<a href="https://twitter.com/andresoventi" target="blank"><img src="https://img.shields.io/twitter/follow/andresoventi?logo=twitter&style=for-the-badge" alt="andresoventi" /></a>
 
-- 🔭 I’m currently working on [ActionStation](https://actionstation.org.nz/)
+- 🔭 Tech Lead at [ActionStation](https://actionstation.org.nz/), Trustee at [Migrants Aotearoa](https://migrantsaotearoa.org.nz/)
 
-- 🌱 I’m currently learning **Serverless Architecture**
+- 🌱 Learning and applying **Serverless Architecture** and Te Tiriti o Waitangi/Te Reo Māori.
 
-- 👯 I’m looking to collaborate on **NGO / Social Impact projects**
+- 👯 Looking to collaborate on **NGO / Social Impact projects**, migrant help/rights, music jamming and Snorkeling/Scuba/Paddleboarding outings
 
-- 💬 Ask me about **NodeJS**
+- 💬 Ask me about **NodeJS**, guitars, percussion, water activities
 
 - 📫 How to reach me **andres@oventi.org**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/oventi/](https://www.linkedin.com/in/oventi/)
+- 📄 Know [about me](https://www.linkedin.com/in/oventi/) or [my work](https://www.linkedin.com/in/oventi/)
 
-- ⚡ Fun fact **I play guitar**
+- ⚡ Fun fact **I play guitar** and percussion, speak Spanish, and like to scuba dive and paddleboard
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
