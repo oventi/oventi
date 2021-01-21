@@ -8,7 +8,7 @@
 
 - 🌱 Learning and applying **Serverless Architecture** and Te Tiriti o Waitangi/Te Reo Māori.
 
-- 👯 Looking to collaborate on **NGO / Social Impact projects**, migrant help/rights, music jamming and Snorkeling/Scuba/Paddleboarding outings
+- 👯 Looking to collaborate on **NGO / Social Impact projects**, migrant help and rights, music jamming and snorkeling, scuba or paddleboarding outings
 
 - 💬 Ask me about **NodeJS**, guitars, percussion, water activities
 
