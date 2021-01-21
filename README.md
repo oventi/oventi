@@ -1,6 +1,6 @@
 # Kia ora 👋, I'm Andrés Proaño Valencia
 ## Applying my skills to make a positive impact in the world. 
-### Pōneke/Wellington, Aotearoa NZ. Tauiwi, he/him.
+### Pōneke/Wellington, Aotearoa New Zealand. Tauiwi, he/him.
 
 <a href="https://twitter.com/andresoventi" target="blank"><img src="https://img.shields.io/twitter/follow/andresoventi?logo=twitter&style=for-the-badge" alt="andresoventi" /></a>
 
@@ -10,9 +10,9 @@
 
 - 👯 Looking to collaborate on **NGO / Social Impact projects**, migrant help and rights, music jamming and snorkeling, scuba or paddleboarding outings
 
-- 💬 Ask me about **NodeJS**, guitars, percussion, water activities
+- 💬 Ask me about **NodeJS**, guitars, percussion, water activities, life in **Aotearoa New Zealand**.
 
-- 📫 How to reach me **andres@oventi.org**
+- 📫 How to reach me **andres@oventi.org**, [@andresoventi](https://twitter.com/andresoventi)
 
 - 📄 Know [about me](https://www.linkedin.com/in/oventi/) or [my work](https://www.linkedin.com/in/oventi/)
 
