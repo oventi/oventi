@@ -2,7 +2,7 @@
 ## Applying my skills to make a positive impact in the world. 
 ### Pōneke/Wellington, Aotearoa New Zealand. Tauiwi, he/him.
 
-<a href="https://twitter.com/andresoventi" target="blank"><img src="https://img.shields.io/twitter/follow/andresoventi?logo=twitter&style=for-the-badge" alt="andresoventi" /></a>
+<a href="https://twitter.com/oventi_" target="blank"><img src="https://img.shields.io/twitter/follow/andresoventi?logo=twitter&style=for-the-badge" alt="andresoventi" /></a>
 
 - 🔭 Tech Lead at [ActionStation](https://actionstation.org.nz/), Trustee at [Migrants Aotearoa](https://migrantsaotearoa.org.nz/)
 
