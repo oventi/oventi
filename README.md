@@ -1,22 +1,36 @@
-# Kia ora 👋, I'm Andrés Proaño Valencia
-## Applying my skills to make a positive impact in the world. 
-### Pōneke/Wellington, Aotearoa New Zealand. Tauiwi, he/him.
+# 🧑🏽‍💻 Kia ora, I'm Andrés Proaño Valencia (he/him)
+## Applying my skills to make a positive impact in the world
 
 <a href="https://twitter.com/oventi_" target="blank"><img src="https://img.shields.io/twitter/follow/oventi_?logo=twitter&style=for-the-badge" alt="oventi_" /></a>
 
-- 🔭 Tech Lead at [ActionStation](https://actionstation.org.nz/), Trustee at [Migrants Aotearoa](https://migrantsaotearoa.org.nz/)
+### About me
 
-- 🌱 Learning and applying **Serverless Architecture** and Te Tiriti o Waitangi/Te Reo Māori.
+- Tauiwi Latino techie living in Pōneke, Aotearoa (Wellington, New Zealand).
 
-- 👯 Looking to collaborate on **NGO / Social Impact projects**, migrant help and rights, music jamming and snorkeling, scuba or paddleboarding outings
+- Tech Lead at [ActionStation](https://actionstation.org.nz/), Trustee at [Migrants Aotearoa](https://migrantsaotearoa.org.nz/). 
 
-- 💬 Ask me about **NodeJS**, guitars, percussion, water activities, life in **Aotearoa New Zealand**.
+- Looking to collaborate on **social impact projects** and **migrant support & rights**.
 
-- 📫 How to reach me **andres@oventi.org**, [@andresoventi](https://twitter.com/andresoventi)
+- I play guitar and percussion, speak Spanish, and like to snorkel, scuba dive and paddleboard.
 
-- 📄 Know [about me](https://oventi.org/) or [my work](https://www.linkedin.com/in/oventi/)
+### Connect with me
 
-- ⚡ Fun fact **I play guitar** and percussion, speak Spanish, and like to scuba dive and paddleboard
+<a href="https://twitter.com/oventi_" class="devicon" target="external">
+  <img alt="twitter" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />
+</a>
+
+<a href="https://github.com/oventi" class="devicon" target="external">
+  <i class="devicon-github-original colored"></i>
+  <span class="bs_visually_hidden">github</span>
+</a>
+
+<a href="https://linkedin.com/in/oventi" class="devicon" target="external">
+  <i class="devicon-linkedin-plain colored"></i>
+  <span class="bs_visually_hidden">linkedin</span>
+</a>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
