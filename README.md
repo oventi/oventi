@@ -127,5 +127,5 @@
 </a>
 
 <a href="https://yarnpkg.com" target="external">
-  <img alt="yarn" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-plain-wordmark.svg" />
+  <img alt="yarn" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" />
 </a>
