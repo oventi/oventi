@@ -1,4 +1,4 @@
-# 🧑🏽‍💻 Kia ora, I'm Andrés Proaño Valencia (he/him)
+# 🧑🏽‍💻 Kia ora, I'm Andrés Proaño Valencia (he/him) 🦜
 ## Applying my skills to make a positive impact in the world
 
 <a href="https://twitter.com/oventi_" target="blank"><img src="https://img.shields.io/twitter/follow/oventi_?logo=twitter&style=for-the-badge" alt="oventi_" /></a>
