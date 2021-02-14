@@ -15,19 +15,7 @@
 
 ### Connect with me
 
-<a href="https://twitter.com/oventi_" class="devicon" target="external">
-  <img alt="twitter" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />
-</a>
-
-<a href="https://github.com/oventi" class="devicon" target="external">
-  <i class="devicon-github-original colored"></i>
-  <span class="bs_visually_hidden">github</span>
-</a>
-
-<a href="https://linkedin.com/in/oventi" class="devicon" target="external">
-  <i class="devicon-linkedin-plain colored"></i>
-  <span class="bs_visually_hidden">linkedin</span>
-</a>
+<a href="https://twitter.com/oventi_" class="devicon" target="external"><img alt="twitter" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" /></a> <a href="https://github.com/oventi" class="devicon" target="external"><img alt="github" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /></a> <a href="https://linkedin.com/in/oventi" class="devicon" target="external"><img alt="linkedin" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /></a>
 
 
 
