@@ -16,15 +16,15 @@
 ### Connect with me
 
 <a href="https://twitter.com/oventi_" target="external">
-  <img alt="twitter" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />
+  <img alt="twitter" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />
 </a> 
 
 <a href="https://github.com/oventi" target="external">
-  <img alt="github" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+  <img alt="github" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
 </a> 
 
 <a href="https://linkedin.com/in/oventi" target="external">
-  <img alt="linkedin" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
+  <img alt="linkedin" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
 </a>
 
 ### My tech skills
