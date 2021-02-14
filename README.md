@@ -56,3 +56,76 @@
 <a href="https://www.docker.com" target="external">
   <img alt="docker" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" />
 </a>
+
+
+<a href="http://expressjs.com" target="external">
+  <img alt="express" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+</a>
+
+<a href="https://www.mozilla.org/en-GB/firefox" target="external">
+  <img alt="firefox" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain-wordmark.svg" />
+</a>
+
+<a href="https://git-scm.com" target="external">
+  <img alt="git" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" />
+</a>
+
+<a href="https://www.heroku.com" target="external">
+  <img alt="heroku" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain-wordmark.svg" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="external">
+  <img alt="html5" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="external">
+  <img alt="javascript" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+</a>
+
+<a href="https://www.linux.org" target="external">
+  <img alt="gnu/linux" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" />
+</a>
+
+<a href="https://www.mongodb.com" target="external">
+  <img alt="mongodb" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" />
+</a>
+
+<a href="https://www.mysql.com" target="external">
+  <img alt="mysql" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" />
+</a>
+
+<a href="https://www.nginx.com" target="external">
+  <img alt="nginx" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
+</a>
+
+<a href="https://nodejs.org" target="external">
+  <img alt="nodejs" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" />
+</a>
+
+<a href="https://www.postgresql.org" target="external">
+  <img alt="postgresql" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" />
+</a>
+
+<a href="https://redis.io" target="external">
+  <img alt="redis" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain-wordmark.svg" />
+</a>
+
+<a href="https://sass-lang.com" target="external">
+  <img alt="sass" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
+</a>
+
+<a href="https://www.sketch.com" target="external">
+  <img alt="sketch" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-line-wordmark.svg" />
+</a>
+
+<a href="https://ubuntu.com" target="external">
+  <img alt="ubuntu" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+</a>
+
+<a href="https://webpack.js.org" target="external">
+  <img alt="webpack" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-plain-wordmark.svg" />
+</a>
+
+<a href="https://yarnpkg.com" target="external">
+  <img alt="yarn" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-plain-wordmark.svg" />
+</a>
