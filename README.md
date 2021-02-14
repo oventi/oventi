@@ -20,29 +20,29 @@
 ### My tech skills
 
 <a href="https://aws.amazon.com" target="external">
-  <img alt="aws" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark" />
+  <img alt="aws" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 </a>
 
 <a href="https://atom.io" target="external">
-  <img alt="atom" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original-wordmark" />
+  <img alt="atom" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original-wordmark.svg" />
 </a>
 
 <a href="https://babeljs.io" target="external">
-  <img alt="babel" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-plain" />
+  <img alt="babel" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-plain.svg" />
 </a>
 
 <a href="https://www.gnu.org/software/bash" target="external">
-  <img alt="bash" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain" />
+  <img alt="bash" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" />
 </a>
 
 <a href="https://getbootstrap.com" target="external">
-  <img alt="bootstrap" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark" />
+  <img alt="bootstrap" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="external">
-  <img alt="css" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark" />
+  <img alt="css" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />
 </a>
 
 <a href="https://www.docker.com" target="external">
-  <img alt="docker" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark" />
+  <img alt="docker" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" />
 </a>
