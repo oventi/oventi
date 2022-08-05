@@ -7,9 +7,9 @@
 
 - Tauiwi Latino techie living in Pōneke, Aotearoa (Wellington, New Zealand).
 
-- Tech Lead at [ActionStation](https://actionstation.org.nz/), Trustee at [Migrants Aotearoa](https://migrantsaotearoa.org.nz/). 
+- Senior Trainer and Tech Lead at [Developers Institute](https://www.developers.ac.nz/). 
 
-- Looking to collaborate on **social impact projects** and **migrant support & rights**.
+- Looking to collaborate on **social impact projects**.
 
 - I play guitar and percussion, speak Spanish, and like to snorkel, scuba dive and paddleboard.
 
