@@ -5,7 +5,7 @@
 
 ### About me
 
-- Tauiwi Latino techie living in Pōneke, Aotearoa (Wellington, New Zealand).
+- Tauiwi Latino techie living in Te Whanganui-a-Tara, Aotearoa (Wellington, New Zealand).
 
 - Looking to collaborate on **social impact projects**.
 
