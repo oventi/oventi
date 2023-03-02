@@ -7,8 +7,6 @@
 
 - Tauiwi Latino techie living in Pōneke, Aotearoa (Wellington, New Zealand).
 
-- Senior Trainer and Tech Lead at [Developers Institute](https://www.developers.ac.nz/). 
-
 - Looking to collaborate on **social impact projects**.
 
 - I play guitar and percussion, speak Spanish, and like to snorkel, scuba dive and paddleboard.
